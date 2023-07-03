@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Program Files/Analog Devices/VisualDSP 4.5/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Mon May 08 18:32:06 2023
+'>
+<MSG id='010BD1E8' mid='li2153' type='Warning'>
+<TEXT><![CDATA[Input sections have inconsistent qualifiers as follows.
+unknown   | Debug\conv.doj(seg_pmco)
+unknown   | Debug\conv.doj(seg_pmda)
+DOUBLE32  | Debug\DAIsignInit.doj(seg_pmco)
+DOUBLEANY | 364_hdr.doj(seg_rth)
+DOUBLE32  | Debug\init1835viaSPI.doj(seg_dmda)
+DOUBLE32  | Debug\init1835viaSPI.doj(seg_pmco)
+DOUBLE32  | Debug\initDAI.doj(seg_pmco)
+DOUBLE32  | Debug\initPLL.doj(seg_dmda)
+DOUBLE32  | Debug\initPLL.doj(seg_pmco)
+DOUBLE32  | Debug\initSPORT.doj(seg_dmda)
+DOUBLE32  | Debug\initSPORT.doj(seg_pmco)
+DOUBLE32  | Debug\IRQprocess.doj(seg_pmco)
+DOUBLE32  | Debug\main.doj(seg_dmda)
+DOUBLE32  | Debug\main.doj(seg_pmco)
+DOUBLE32  | Debug\process.doj(seg_dmda)
+DOUBLE32  | Debug\process.doj(seg_pmco)
+DOUBLE32  | Debug\process.doj(seg_pmda)
+DOUBLE32  | Debug\SPORTisr.doj(seg_dmda)
+DOUBLE32  | Debug\SPORTisr.doj(seg_pmco)
+DOUBLEANY | libc36x.dlb[060_proc2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[argstring2136x_rev_0.0.doj](seg_dmda)
+DOUBLEANY | libc36x.dlb[argstring2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[errno2136x_rev_0.0.doj](seg_dmda)
+DOUBLEANY | libc36x.dlb[errno2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[getargv2136x_rev_0.0.doj](seg_dmda)
+DOUBLEANY | libc36x.dlb[getargv2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[int_cncbl2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[int_cnfl2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[int_cnsl2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[int_cnss2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[int_cntl2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[int_tabl2136x_rev_0.0.doj](seg_dmda)
+DOUBLEANY | libc36x.dlb[interrup2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[irptl2136x_rev_0.0.doj](seg_int_code)
+DOUBLEANY | libc36x.dlb[rand2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[seg_init2136x_rev_0.0.doj](seg_init)
+DOUBLEANY | libc36x.dlb[seg_init_rtheap2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[set_args2136x_rev_0.0.doj](seg_dmda)
+DOUBLEANY | libc36x.dlb[set_args2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[set_c2136x_rev_0.0.doj](seg_pmco)
+DOUBLEANY | libc36x.dlb[set_env2136x_rev_0.0.doj](seg_dmda)
+DOUBLEANY | libc36x.dlb[set_env2136x_rev_0.0.doj](seg_pmco)]]></TEXT>
+</MSG>
+</DOCUMENT>
