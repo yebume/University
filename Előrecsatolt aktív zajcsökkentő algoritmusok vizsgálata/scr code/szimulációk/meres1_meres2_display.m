@@ -193,7 +193,7 @@ plot(f_4k, H_og(1:N_4k) + H_inv(1:N_4k),'Color',"#ff6600");
 title('A2 és H');
 xlabel('Frekvencia [Hz]');
 ylabel('Erősítés[dB]');
-legend('Eredeti A2', 'Inverz A2 (H)', 'A kettő szorzata');
+legend('Eredeti A2', 'Inverz A2 (H)', 'A kettő összege');
 annotation('textbox', [0.15, 0.8, 0.1, 0.1], 'String', "Szűrőegyütthatók száma: " + k + " db", 'BackgroundColor', 'w');
 grid on;
 hold off
@@ -220,7 +220,7 @@ plot(f_4k, inv(1:N_4k)' + og(1:N_4k),'Color',"#ff6600");
 xlabel('Frekvencia [Hz]');
 ylabel('Erősítés[dB]');
 grid on;
-legend('Eredeti A2', 'Inverz A2', 'A kettő szorzata');
+legend('Eredeti A2', 'Inverz A2', 'A kettő összege');
 %}
 %%
 %{ A2 nem volt bonyolult
